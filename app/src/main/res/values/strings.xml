@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PeliDex</string>
+    <string name="movie_name_string">movie</string>
+    <string name="movie_title_string">title_movie</string>
+    <string name="lorem_30_string">lorem</string>
+    <string name="rate_ex_string"/>
+    <string name="runtime_ex_string">movie_runtime</string>
+    <string name="appbar_scrolling_view_behavior">appbar_scrolling</string>
+    <string name="n_a_value">value</string>
+</resources>
